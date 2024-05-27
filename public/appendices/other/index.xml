@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other Appendices on AEB - PD Portfolio</title>
+    <link>//localhost:1313/appendices/other/</link>
+    <description>Recent content in Other Appendices on AEB - PD Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/appendices/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collaboration Contract Term 1</title>
+      <link>//localhost:1313/appendices/other/collaboration-contract-term-1/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/appendices/other/collaboration-contract-term-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Collaboration Contract Term 2</title>
+      <link>//localhost:1313/appendices/other/collaboration-contract-term-2/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/appendices/other/collaboration-contract-term-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Individual PD Meeting Summaries</title>
+      <link>//localhost:1313/appendices/other/individual-pd-meeting-summaries/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/appendices/other/individual-pd-meeting-summaries/</guid>
+      <description>First Individual PD Meeting Summary This was my first time meeting my Personal Development coach Evgenya. We became acquainted, talked about what PD is going to look like this year, what we would need to do. We also talked about my goals for the year, how I’m going to accomplish them, where I would like to do my internship, what are my responsibilities and how I manage them. Evgenya also explained how I should do personal growth plan and that once I’m finished she can give me feedback.</description>
+    </item>
+    <item>
+      <title>Proof of Communications with Stakeholders/Clients</title>
+      <link>//localhost:1313/appendices/other/proof-of-communication/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/appendices/other/proof-of-communication/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

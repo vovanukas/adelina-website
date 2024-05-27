@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflections on AEB - PD Portfolio</title>
+    <link>//localhost:1313/reflections/</link>
+    <description>Recent content in Reflections on AEB - PD Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/reflections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflection on collaboration</title>
+      <link>//localhost:1313/reflections/collaboration/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reflections/collaboration/</guid>
+      <description>Objective: This year I will attend all classes prepared and show enthusiasm for projects. By the end of the year I will not have any missing parts of the assignments and not have any retakes. I will achieve this by setting deadlines for assignments and dedicating a minimum of an hour everyday to do them.&#xA;Acting out: This year I will attend all classes prepared and show enthusiasm for projects. By the end of the term I will not have any missing parts of the assignments and not have any retakes.</description>
+    </item>
+    <item>
+      <title>Reflection on leadership</title>
+      <link>//localhost:1313/reflections/leadership/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reflections/leadership/</guid>
+      <description>Objective: This year I will attend all classes prepared and show enthusiasm for projects. By the end of the year I will not have any missing parts of the assignments and not have any retakes. I will achieve this by setting deadlines for assignments and dedicating a minimum of an hour everyday to do them.&#xA;Acting out: This year I will attend all classes prepared and show enthusiasm for projects. By the end of the term I will not have any missing parts of the assignments and not have any retakes.</description>
+    </item>
+    <item>
+      <title>Reflection on professional attitude</title>
+      <link>//localhost:1313/reflections/attitude/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reflections/attitude/</guid>
+      <description>Objective: This year I will attend all classes prepared and show enthusiasm for projects. By the end of the year I will not have any missing parts of the assignments and not have any retakes. I will achieve this by setting deadlines for assignments and dedicating a minimum of an hour everyday to do them.&#xA;Acting out: This year I will attend all classes prepared and show enthusiasm for projects. By the end of the term I will not have any missing parts of the assignments and not have any retakes.</description>
+    </item>
+    <item>
+      <title>Reflection on solution-oriented action</title>
+      <link>//localhost:1313/reflections/solution-oriented-action/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reflections/solution-oriented-action/</guid>
+      <description>Objective: This year I will attend all classes prepared and show enthusiasm for projects. By the end of the year I will not have any missing parts of the assignments and not have any retakes. I will achieve this by setting deadlines for assignments and dedicating a minimum of an hour everyday to do them.&#xA;Acting out: This year I will attend all classes prepared and show enthusiasm for projects. By the end of the term I will not have any missing parts of the assignments and not have any retakes.</description>
+    </item>
+  </channel>
+</rss>
