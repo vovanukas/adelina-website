@@ -1,9 +1,10 @@
 ---
-title: Advisory Skills Training
+title: 11. Advisory Skills Training
 date: 2024-05-23
 description: 
 # image: images/cctv2.jpeg
 # imageAltAttribute: CCTV Camera
+weight: 7
 ---
 
 ## Summary

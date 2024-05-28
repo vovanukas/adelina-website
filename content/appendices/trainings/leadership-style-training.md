@@ -1,9 +1,10 @@
 ---
-title: Leadership Styles Training
+title: 5. Leadership Styles Training
 date: 2024-05-23
 description: 
 # image: images/cctv2.jpeg
 # imageAltAttribute: CCTV Camera
+weight: 1
 ---
 
 ## Summary:

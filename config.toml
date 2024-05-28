@@ -52,10 +52,10 @@ pygmentsUseClasses = true
     url = '/'
     weight = 1
   [[menu.main]]
-    name = "Reflections"
-    identifier = "reflections"
+    name = "Main"
+    identifier = "main"
     weight = 2
-    url = "/reflections/"
+    url = "/main/"
   [[menu.main]]
     name = "Appendices"
     identifier = "appendices"

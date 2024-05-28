@@ -1,9 +1,10 @@
 ---
-title: Group Dynamics Training
+title: 6. Group Dynamics Training
 date: 2024-05-23
 description: 
 # image: images/cctv2.jpeg
 # imageAltAttribute: CCTV Camera
+weight: 2
 ---
 
 ## Summary

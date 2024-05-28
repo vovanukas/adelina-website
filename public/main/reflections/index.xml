@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflections on AEB - PD Portfolio</title>
+    <link>//localhost:1313/main/reflections/</link>
+    <description>Recent content in Reflections on AEB - PD Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/main/reflections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflection on collaboration</title>
+      <link>//localhost:1313/main/reflections/collaboration/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/main/reflections/collaboration/</guid>
+      <description>Objective: By the end of this term me and my team will have found a way to work smoothly together and hold each other accountable. This will be measured by the fact that we won’t have any missing parts of the project and will not need a retake.&#xA;Acting out: This year I wanted to focus on having effective communication within my teams, so that we can all hold each other accountable when someone isn’t putting in the same amount of effort as everyone else.</description>
+    </item>
+    <item>
+      <title>Reflection on leadership</title>
+      <link>//localhost:1313/main/reflections/leadership/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/main/reflections/leadership/</guid>
+      <description>Objective: This year I will take the leaders position in my group to ensure that work is done on time and that our projects aren’t missing anything. This will be measured by us having an 80 on every group project by the end of the term.&#xA;Acting out: This year I want to be a leader in my teams and make sure we submit everything on time, pass all assignments with a high grade.</description>
+    </item>
+    <item>
+      <title>Reflection on professional attitude</title>
+      <link>//localhost:1313/main/reflections/attitude/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/main/reflections/attitude/</guid>
+      <description>Objective: This term I will attend all classes prepared and show enthusiasm for projects. By the end of the term I will not have any missing parts of the assignments and not have any retakes. I will achieve this by setting deadlines for assignments and dedicating an hour everyday minimum to do them.&#xA;Acting out: This year I will attend all classes prepared and show enthusiasm for projects. By the end of the term I will not have any missing parts of the assignments and not have any retakes.</description>
+    </item>
+    <item>
+      <title>Reflection on solution-oriented action</title>
+      <link>//localhost:1313/main/reflections/solution-oriented-action/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/main/reflections/solution-oriented-action/</guid>
+      <description>Objective: This term I will enhance my overall academic performance by regularly reviewing and revising study strategies, seeking feedback from professors or coaches, and adjusting approaches based on identified strengths and weaknesses, with the aim of achieving a cumulative GPA of 8 or higher by the end of the academic year.&#xA;Acting out: This year I want to figure out the most efficient and productive way of studying that’s interactive and fun to do so that I’m less likely to procrastinate.</description>
+    </item>
+  </channel>
+</rss>

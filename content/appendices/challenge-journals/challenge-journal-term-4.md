@@ -1,9 +1,10 @@
 ---
-title: Challenge journal Term 4
+title: 4. Challenge journal Term 4
 date: 2024-05-23
 description:
 # image: images/cctv2.jpeg
 # imageAltAttribute: CCTV Camera
+weight: 4
 ---
 
 ## CHALLANGE: 

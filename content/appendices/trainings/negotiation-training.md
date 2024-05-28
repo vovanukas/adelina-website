@@ -1,9 +1,10 @@
 ---
-title: Negotiation Training
+title: 10. Negotiation Training
 date: 2024-05-23
 description: 
 # image: images/cctv2.jpeg
 # imageAltAttribute: CCTV Camera
+weight: 6
 ---
 
 ## Summary:

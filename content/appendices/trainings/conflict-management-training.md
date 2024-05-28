@@ -1,9 +1,10 @@
 ---
-title: Conflict Management Training
+title: 7. Conflict Management Training
 date: 2024-05-23
 description: 
 # image: images/cctv2.jpeg
 # imageAltAttribute: CCTV Camera
+weight: 3
 ---
 
 ## Summary
