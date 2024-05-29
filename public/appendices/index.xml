@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Appendices on AEB - PD Portfolio</title>
+    <title>Appendices on Inholland University of Applied Sciences - The Hague - International Creative Business - Class 2B - 2024.06.03 - Graded by Evgenia Gontsarova</title>
     <link>//localhost:1313/appendices/</link>
-    <description>Recent content in Appendices on AEB - PD Portfolio</description>
+    <description>Recent content in Appendices on Inholland University of Applied Sciences - The Hague - International Creative Business - Class 2B - 2024.06.03 - Graded by Evgenia Gontsarova</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/appendices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>References</title>
+      <link>//localhost:1313/appendices/references/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/appendices/references/</guid>
+      <description>Austin, G. A. (1952). Maier&amp;rsquo;s behavior theory. Psycnet. Retrieved May 14, 2024, from https://psycnet.apa.org/record/1953-02351-001&#xA;Cole, C. (2024, May 3). 4 Steps of the Negotiation Process. Harvard Business School. Retrieved May 13, 2024, from https://www.google.com/search?client=safari&amp;amp;rls=en&amp;amp;q=4+stage+negotiation+process&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&#xA;Duranti, G., &amp;amp; Di Prata, O. (2009). Everything is about time: does it have the same meaning all over the world? PMI. Retrieved April 24, 2024, from https://www.pmi.org/learning/library/everything-time-monochronism-polychronism-orientation-6902&#xA;European Judo Union. (n.d.). What is verbal judo? European Judo Union.</description>
+    </item>
   </channel>
 </rss>
