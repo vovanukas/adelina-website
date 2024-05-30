@@ -2,6 +2,7 @@
 title: 1.2 Intervision 1 for Term 1
 date: 2023-12-13
 weight: 1
+description: 2023-12-13
 # image: images/cctv2.jpeg
 # imageAltAttribute: CCTV Camera
 ---
