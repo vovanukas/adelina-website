@@ -21,6 +21,8 @@ keka. (n.d.). What is Group Dynamics? | Meaning, Types & Stages. Keka. Retrieved
 
 Management Training Specialists. (2022, October 4). What is the Thomas Kilmann Conflict Management Model? (With examples). MTD Training. Retrieved May 13, 2024, from https://www.mtdtraining.com/blog/thomas-kilmann-conflict-management-model.htm
 
+Mulder, P. (2020, November 18). Core Quality Quadrant Model explained. Toolshero. Retrieved May 31, 2024, from https://www.toolshero.com/communication-methods/core-quality-quadrant/
+
 Nickerson, C. (2023, October 24). Hofstede's Cultural Dimensions Theory & Examples. Simply Psychology. Retrieved April 24, 2024, from https://www.simplypsychology.org/hofstedes-cultural-dimensions-theory.html
 
 Purdue University. (n.d.). Competencies for Success - Academic Advising. Purdue University. Retrieved May 14, 2024, from https://www.purdue.edu/advisors/advisors/who-we-are/competencies-for-success.php
@@ -30,5 +32,7 @@ Rossingol, N. (2023, March 28). Dare to Disagree: Why Productive Conflict is Nec
 Shonk, K. (n.d.). Six Guidelines for “Getting to Yes” - PON - Program on Negotiation at Harvard Law School. PON.Harvard.edu. Retrieved April 24, 2024, from https://www.pon.harvard.edu/daily/negotiation-skills-daily/six-guidelines-for-getting-to-yes/
 
 Sinek, S. (n.d.). Goleman Leadership Styles | Know The 6 Types of Leadership. Personio. Retrieved April 24, 2024, from https://www.personio.com/hr-lexicon/six-goleman-leadership-styles/
+
+West Chester University. (2022, September 28). Tuckman's Stages of Group Development - WCU of PA. West Chester University.
 
 Witynski, M. (n.d.). What is behavioral economics? UChicago News. Retrieved May 13, 2024, from https://news.uchicago.edu/explainer/what-is-behavioral-economics
